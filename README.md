@@ -1,2 +1,1 @@
-# recruitCRMAssignmentRoundRepository
-This is for Recruit CRM Assignment Round
+# crm-employee-app
